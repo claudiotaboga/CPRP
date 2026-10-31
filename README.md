@@ -8,3 +8,4 @@ Public hosting for finished **Curious Patents, Real Papers** reels ([@curiouspat
 ## Tools
 - `tools/cprp_style.py` — house-style overlays (titles, subtitles, labels, footer, patent reveal card).
 - `tools/cprp_audio.py` — produced music bed, sound design (whooshes, impacts, risers, reveal stamp) and mastered stereo mix. `pip install --break-system-packages pedalboard`.
+- `tools/cprp_insights.py` — turns Instagram insights snapshots into comparable KPIs (hook hold, watch time, sends/saves per 1k). Results stay private.
